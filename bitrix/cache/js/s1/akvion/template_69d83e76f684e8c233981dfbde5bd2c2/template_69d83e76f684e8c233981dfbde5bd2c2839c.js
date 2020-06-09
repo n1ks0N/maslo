@@ -9101,13 +9101,7 @@ function(i) {
         e($(this).parent().index() - 1, "next"), $(".second-situations").removeClass("active")
     });
     var t = !1;
-    $(".js-click").mousedown(function(e) {
-        $(this).addClass("click-in"), t = !0
-    }), $(window).mouseup(function() {
-        t && ($(".js-click").removeClass("click-in"), t = !1)
-    }), $(".js-click").mouseleave(function() {
-        t && ($(".js-click").removeClass("click-in"), t = !1)
-    }), $(".pagefooter-share__wrap, .header_share_wrap").click(function() {
+    $(".pagefooter-share__wrap, .header_share_wrap").click(function() {
         $(".right_vest-art_soc_obj").toggleClass("active"), $(this).toggleClass("active")
     }), $('.products_all_filter .products_all_filter_item[data-item="0"] .products_all_filter_item_tip').html("Линейка Дыши <sup>®</sup>"), $(".products_all_filter").append("<div class='products_all_filter_mobile_text'></div>"), $(".products_all_filter").prepend("<div class='products_all_filter_mobile_text_additional'>Выберите симптом и узнайте, какой продукт вам подойдет.</div>");
     var a, s;
@@ -9323,10 +9317,6 @@ function(i) {
             }
         }), $(window).outerWidth() <= 1024, $(".product_notify_text_close").click(function(e) {
             $(".product_notify").addClass("hide close")
-        }), $(".js-warn").click(function(e) {
-            e.preventDefault();
-            var t = $(this).attr("href");
-            "undefined" == t && (t = "/for-specialists/"), "1" == $.cookie("warn_accept") ? window.location.href = t : $(".pp_warn_overlay").addClass("show")
         }), $(".js-pp-close, .js-warn-dec").click(function(e) {
             e.preventDefault(), $(".pp_warn_overlay").removeClass("show")
         }), $(".js-warn-accept").click(function(e) {
