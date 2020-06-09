@@ -1,0 +1,24 @@
+<svg width="23" height="38" viewBox="0 0 23 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>&#208;&#188;&#209;&#139;&#209;&#136;&#209;&#140;</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-13761 -36365)">
+<g id="&#208;&#188;&#209;&#139;&#209;&#136;&#209;&#140;">
+<g id="Rectangle 3">
+<mask id="mask0_outline_ins">
+<use xlink:href="#path0_fill" fill="white" transform="translate(13761 36365)"/>
+</mask>
+<g mask="url(#mask0_outline_ins)">
+<use xlink:href="#path1_stroke_2x" transform="translate(13761 36365)" fill="#353535"/>
+</g>
+</g>
+<g id="Vector">
+<use xlink:href="#path2_stroke" transform="translate(13772.5 36372)" fill="#353535"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 0 11.5C 0 5.14872 5.14873 0 11.5 0C 17.8513 0 23 5.14873 23 11.5L 23 26.5C 23 32.8513 17.8513 38 11.5 38C 5.14873 38 0 32.8513 0 26.5L 0 11.5Z"/>
+<path id="path1_stroke_2x" d="M 21 11.5L 21 26.5L 25 26.5L 25 11.5L 21 11.5ZM 2 26.5L 2 11.5L -2 11.5L -2 26.5L 2 26.5ZM 11.5 36C 6.25329 36 2 31.7467 2 26.5L -2 26.5C -2 33.9558 4.04416 40 11.5 40L 11.5 36ZM 21 26.5C 21 31.7467 16.7467 36 11.5 36L 11.5 40C 18.9558 40 25 33.9558 25 26.5L 21 26.5ZM 11.5 2C 16.7467 2 21 6.2533 21 11.5L 25 11.5C 25 4.04416 18.9558 -2 11.5 -2L 11.5 2ZM 11.5 -2C 4.04416 -2 -2 4.04416 -2 11.5L 2 11.5C 2 6.25329 6.25329 2 11.5 2L 11.5 -2Z"/>
+<path id="path2_stroke" d="M -1 0L -1 7L 1 7L 1 0L -1 0Z"/>
+</defs>
+</svg>

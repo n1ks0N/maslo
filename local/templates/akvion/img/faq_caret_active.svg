@@ -1,0 +1,24 @@
+<svg width="80" height="80" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Group</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-27704 -38887)">
+<g id="Group">
+<g id="Ellipse">
+<mask id="mask0_outline_ins">
+<use xlink:href="#path0_fill" fill="white" transform="matrix(1 0 0 -1 27704 38967)"/>
+</mask>
+<g mask="url(#mask0_outline_ins)">
+<use xlink:href="#path1_stroke_2x" transform="matrix(1 0 0 -1 27704 38967)" fill="#27AE60"/>
+</g>
+</g>
+<g id="Vector 2">
+<use xlink:href="#path2_stroke" transform="matrix(1 0 0 -1 27734 38930)" fill="#27AE60"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 80 40C 80 62.0914 62.0914 80 40 80C 17.9086 80 0 62.0914 0 40C 0 17.9086 17.9086 0 40 0C 62.0914 0 80 17.9086 80 40Z"/>
+<path id="path1_stroke_2x" d="M 78 40C 78 60.9868 60.9868 78 40 78L 40 82C 63.196 82 82 63.196 82 40L 78 40ZM 40 78C 19.0132 78 2 60.9868 2 40L -2 40C -2 63.196 16.804 82 40 82L 40 78ZM 2 40C 2 19.0132 19.0132 2 40 2L 40 -2C 16.804 -2 -2 16.804 -2 40L 2 40ZM 40 2C 60.9868 2 78 19.0132 78 40L 82 40C 82 16.804 63.196 -2 40 -2L 40 2Z"/>
+<path id="path2_stroke" d="M 10 10L 9.29289 10.7071L 10 11.4142L 10.7071 10.7071L 10 10ZM -0.707107 0.707107L 9.29289 10.7071L 10.7071 9.29289L 0.707107 -0.707107L -0.707107 0.707107ZM 10.7071 10.7071L 20.7071 0.707107L 19.2929 -0.707107L 9.29289 9.29289L 10.7071 10.7071Z"/>
+</defs>
+</svg>

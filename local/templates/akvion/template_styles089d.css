@@ -1,0 +1,32 @@
+#faq_form .f_form_item:first-child{
+    display: none;
+}
+#reviews_form .f_form_item:first-child{
+    display: none;
+}
+#feedback_form .f_form_item:first-child{
+    display: none;
+}
+
+.screens_wrapper .new-year__img{
+    position: absolute;
+    top: 60px;
+    /* top: 0px; */
+    z-index: 1;
+}
+
+.screens_wrapper .new-year__img.right{
+    right: 0;
+    width: 34%;
+}
+.screens_wrapper .new-year__img.left{
+    left: 0;
+    width: 38%;
+}
+.new-year__img{display:none !important}
+@media only screen and (max-width: 768px) {
+    .screens_wrapper .new-year__img{
+        top: 60px;
+    }
+    
+}

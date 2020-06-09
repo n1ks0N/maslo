@@ -1,0 +1,18 @@
+<svg width="20" height="22" viewBox="0 0 20 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Polygon</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-17408 -38659)">
+<g id="Polygon">
+<mask id="mask0_outline_ins">
+<use xlink:href="#path0_fill" fill="white" transform="matrix(-4.37114e-08 1 -1 -4.37114e-08 17427.1 38657.7)"/>
+</mask>
+<g mask="url(#mask0_outline_ins)">
+<use xlink:href="#path1_stroke_2x" transform="matrix(-4.37114e-08 1 -1 -4.37114e-08 17427.1 38657.7)" fill="#FF5919"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 12.2727 0L 22.9012 18.4091L 1.64423 18.4091L 12.2727 0Z"/>
+<path id="path1_stroke_2x" d="M 12.2727 0L 14.0048 -1L 12.2727 -4L 10.5407 -1L 12.2727 0ZM 22.9012 18.4091L 22.9012 20.4091L 26.3653 20.4091L 24.6333 17.4091L 22.9012 18.4091ZM 1.64423 18.4091L -0.0878171 17.4091L -1.81987 20.4091L 1.64423 20.4091L 1.64423 18.4091ZM 10.5407 1L 21.1692 19.4091L 24.6333 17.4091L 14.0048 -1L 10.5407 1ZM 22.9012 16.4091L 1.64423 16.4091L 1.64423 20.4091L 22.9012 20.4091L 22.9012 16.4091ZM 3.37628 19.4091L 14.0048 1L 10.5407 -1L -0.0878171 17.4091L 3.37628 19.4091Z"/>
+</defs>
+</svg>
